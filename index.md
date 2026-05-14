@@ -28,7 +28,7 @@ features:
     link: https://github.com/xixay/curso_nestjs_ang_clase_3
   - title: "4. Nestjs & Angular 19 - CRUD backend Api-rest"
     details: "Ver repositorio de la clase"
-    link: https://github.com/xixay/curso_nestjs_ang_clase4
+    link: https://github.com/xixay/curso_nestjs_ang_clase_4
   - title: "5. NodeJs & Angular 19 - Configuracion proyecto angular"
     details: "Ver repositorio de la clase"
     link: https://github.com/xixay/curso_nestjs_ang_clase_5
